@@ -33,4 +33,4 @@ async def duyuru_error(ctx, error):
 
 
 
-client.run("ODgwNDEzNzUzMzc0NTQ4MDY3.YSd7NA.fnObRz1X3K-EFXWqivxnwuxtSmA")
+client.run("YourToken")
